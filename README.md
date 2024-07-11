@@ -29,7 +29,7 @@
 2. **论文名称**: [Another Paper Title](http://example.com)
 
    - **重要部分**:
-     - 从文档集合中检索相关性较高的负样本
+     - 
 
 
 
